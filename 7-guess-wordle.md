@@ -9,7 +9,7 @@ Any gameplay data (such as guesses or progress within a game session) is stored 
 This data exists only to allow the game to function properly and is removed if the app is uninstalled or its data is cleared.
 #### Advertising
 7 Guess Wordle may display advertisements through third-party ad networks such as Google AdMob. These services may collect certain information automatically to provide and improve advertisements, including device information or advertising identifiers.
-Users can review how Google handles data here: https://policies.google.com/technologies/ads⁠�
+Users can review how Google handles data here: https://policies.google.com/technologies/ads
 #### Data Retention
 Since 7 Guess Wordle does not collect or store personal user data on external servers, there is no retention of personal information by the developer.
 Any data used by the app remains locally on the device and can be removed at any time by clearing the app’s data or uninstalling the app.
