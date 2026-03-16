@@ -35,6 +35,14 @@ The app does not knowingly collect personal information from children under the 
 ## Changes to This Privacy Policy
 This privacy policy may be updated from time to time. Any changes will be posted on this page.
 
+## Data Retention and Deletion
+
+This application does not collect, store, or retain any personal or sensitive user data. All calculations and interactions occur locally on the user's device and no information is transmitted to or stored on external servers by the developer.
+
+Because no user data is collected or stored, there is no data retained by the developer and therefore no user data that requires deletion.
+
+If future versions of the application introduce features that involve collecting or storing user information, this Privacy Policy will be updated accordingly to describe how such data is retained and how users can request its deletion.
+
 ## Contact
 If you have any questions about this Privacy Policy, you may contact the developer.
 
